@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
-tagline: "Humanity is overrated."
-category: "science"
+title: Merchanise Shop
+permalink: /Shop/
+tagline: "Native Leap comes in all sizes."
+category: "shop"
 ---

@@ -8,9 +8,9 @@
 # Site settings
 title: Native Leap
 email: nativeleap@gmail.com
-description: Awakening the fire waves.
+description: Awakening Firelight on Air Waves.
 baseurl: "/NativeLeap" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "//" # the base hostname & protocol for your site
 twitter_username: nativeleap
 github_username:  cybersteam
 paginate: 5

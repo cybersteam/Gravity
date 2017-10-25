@@ -70,8 +70,8 @@ dl, dd, ol, ul, figure {
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: $text-color;
-    background-color: $background-color;
+    color: /*$text-color*/#000;
+    background-color: /*$background-color*/#232327;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -380,10 +380,11 @@ pre {
   margin-top: 1em;
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: #fff;
   }
 }
 .site-description {
+  color:#d5b521;
   font-size: 14px;
   letter-spacing: 2px;
   text-indent: 6px;
@@ -476,7 +477,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $grey-color-dark;
   padding: $spacing-unit 0;
 }
 .footer-heading {
