@@ -9,7 +9,7 @@
 title: Native Leap
 email: nativeleap@gmail.com
 description: Awakening the fire waves.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: nativeleap
 github_username:  cybersteam
