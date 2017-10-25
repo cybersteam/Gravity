@@ -4,8 +4,8 @@ title : About
 permalink: /about/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<h2>Native Leap</h2>
+<p>Crazy mad awesome scary<br>music for the soul.</p>
 <br>
 <center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
 <br>
@@ -144,4 +144,3 @@ tagline: "It's all about perception."
   </div>
 </p>
 </div>
-
