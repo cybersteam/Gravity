@@ -3,8 +3,13 @@
 ---
 @charset "utf-8";
 
-
-
+mark {
+    background-color: black;
+    color: white;
+}
+.borderlandsalbum {
+  float: right;
+}
 // Our variables
 $base-font-family: "PT Sans", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -64,7 +69,7 @@ dl, dd, ol, ul, figure {
 }
 
 .links {
-  text-align: center;
+  float: left;
   font-size: 2em;
 }
 
