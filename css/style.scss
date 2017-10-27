@@ -63,14 +63,18 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+.links {
+  text-align: center;
+  font-size: 2em;
+}
 
 /**
  * Basic styling
  */
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-    color: /*$text-color*/#000;
+    color: /*$text-color*/#ccc;
+
     background-color: /*$background-color*/#232327;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
@@ -240,6 +244,12 @@ pre {
  * Wrapper
  */
 .wrapper {
+  padding: 0;
+  background-image: url("../assets/img/header.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 0% 55%;
+
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -478,7 +488,8 @@ pre {
  */
 .site-footer {
   border-top: 1px solid $grey-color-dark;
-  padding: $spacing-unit 0;
+  padding-top: 0px;
+
 }
 .footer-heading {
   font-size: 18px;
@@ -542,7 +553,8 @@ pre {
  * Page content
  */
 .page-content {
-  padding: 0;
+
+
 }
 .page-heading {
   font-size: 20px;
