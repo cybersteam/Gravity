@@ -92,6 +92,7 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    margin-top: -50px;
 }
 
 
@@ -258,10 +259,13 @@ pre {
   background-image: url("../assets/img/header.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 0% 55%;
+  background-position: center top;
+  background-size: 100%;
 
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+    /*max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+    max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));*/
+    width:auto;
+    height:auto;
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -498,7 +502,7 @@ pre {
  */
 .site-footer {
   border-top: 1px solid $grey-color-dark;
-  padding-top: 0px;
+  padding-top: 10px;
 
 }
 .footer-heading {
