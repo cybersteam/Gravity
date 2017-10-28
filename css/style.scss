@@ -84,6 +84,10 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: /*$text-color*/#ccc;
+    background-image: url("../assets/img/header.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
 
     background-color: /*$background-color*/#232327;
     -webkit-text-size-adjust: 100%;
@@ -256,10 +260,7 @@ pre {
  */
 .wrapper {
   padding: 0;
-  background-image: url("../assets/img/header.png");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100%;
+
 
     /*max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));*/
