@@ -10,6 +10,10 @@ mark {
 .borderlandsalbum {
   float: right;
 }
+.stores {
+  font-size: 12px;
+  text-shadow: 1px 1px #000;
+}
 // Our variables
 $base-font-family: "PT Sans", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
@@ -71,6 +75,7 @@ dl, dd, ol, ul, figure {
 .links {
   float: left;
   font-size: 2em;
+  text-shadow: 1px 1px #000;
 }
 
 /**
