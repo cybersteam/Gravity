@@ -1,8 +1,12 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+page-link {
+  color:#fff;
+}
+
 hr {
-  border-top: 1px solid #ccc555;
+  border-top: 1px solid #6769ac;
   border-bottom: none;
 }
 
@@ -82,9 +86,9 @@ dl, dd, ol, ul, figure {
 
 .links {
   float: left;
-  font-size: 2em;
   text-shadow: 1px 1px #000;
   margin-top: 0px;
+
 }
 
 /**
@@ -426,9 +430,10 @@ pre {
 .exclamationMark {
   padding-left: 2em;
   padding-right: 2em;
+  color:#fff;
 }
 .site-navigation {
-  color: #aaa;
+  text-decoration-color: #ffffff;
   text-transform: uppercase;
   font-size: 14px;
   letter-spacing: 2px;
@@ -453,11 +458,11 @@ pre {
   text-transform: lowercase;
 }
 .page-link {
-  color: rgb(170, 170, 170);
+  color: #fff;
 }
 .site-nav {
   .page-link {
-    color: $text-color;
+    color: #fff;
     line-height: $base-line-height;
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
@@ -510,7 +515,7 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid $grey-color-dark;
+  border-top: 1px solid #6769ac;
   padding-top: 10px;
 
 }
@@ -521,7 +526,10 @@ pre {
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: 0;
+  margin-left: 10px;
+}
+.social-media-list {
+  
 }
 .small-site-title {
   font-family: "PT Sans";
