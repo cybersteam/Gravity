@@ -12,7 +12,7 @@ tagline: "every bit counts!"
 <br>
 <a>Thank you so much for the support!!</a>
 <hr>
-<a >PayPal and Payfast both accept credit and debit card payments, Bitcoin is low cost and the fastest way to make a donation:</a>
+<a>PayPal and Payfast both accept credit and debit card payments, Bitcoin is low cost and the fastest way to make a donation:</a>
 <br>
 <br>
 <a>Donation with PayPal:</a>
