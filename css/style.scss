@@ -1,8 +1,15 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
+hr {
+  border-top: 1px solid #ccc555;
+  border-bottom: none;
+}
 
+@charset "utf-8";
+a:hover {
+  text-decoration: none;
+}
 mark {
     background-color: black;
     color: white;
@@ -66,10 +73,11 @@ $on-laptop:        800px;
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
+p, blockquote, pre,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 .links {
