@@ -37,19 +37,19 @@ exclude_from_nav: true
     <tbody>
       <tr>
         <td>
-        <a>Saavn</a>
-<br>
+        <!--<a>Saavn</a>
+<br>-->
 <a href="https://itunes.apple.com/us/album/borderlands/id1302277659?app=itunes&ign-mpt=uo%3D4">iTunes</a>
 <br>
 <a href="https://play.google.com/store/music/album/Native_Leap_Borderlands?id=Bsn4f6mzftspu5m4m6xly4rjmqe">Google Play</a>
           <br>
  <a href="https://open.spotify.com/album/5bqEjjVEjP8wsmT2uj5T9p">Spotify</a>
           <br>
-<a>Apple Music</a>
-          <br>
+<!--<a>Apple Music</a>
+          <br>-->
 <a href="https://www.amazon.com/gp/product/B076XR7NX6"> Amazon</a>
           <br>
-<a>MediaNet</a>
+<!--<a>MediaNet</a>
           <br>
 <a>MS Groove</a>
           <br>
@@ -59,7 +59,7 @@ exclude_from_nav: true
 <br>
 <a>Pandora</a>
 <br>
-<a>Tidal</a>
+<a>Tidal</a>-->
         </td>
 </tr>
 </tbody>
