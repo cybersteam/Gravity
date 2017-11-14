@@ -28,5 +28,5 @@ Other notable contributors are:
 <li>Simon Max Bannister who has contributed to the conceptual formation of Native Leap since 2011 and sometimes plays flute or other exotic instruments along the way.</li>
 <li>Roger Van Schie is our tour guide Eukele player and also has great rythm on the percussion amongst his many other talents.</li>
 <li>Johan Notts, an early supporter and motivational inspiration, he's always there when we need him! Thanks general naughty!</li>
-<li>All our other great supporters and friends in the past including Chris, Wolf, Tara, Ernst, Rose, Summer, Oli, Linsey, BB Green, Diana, Haroun, Vinni, Jules, Saul, Barret, JP, Brennan, Annie, Wild Spirit, Buccaneers, Bomvu, The Collective - You know who you are.</li>
+<li>All our other great supporters and friends including Summer, Dylan, Jamie, Sarah, Gordon, Debra, Chris, Wolf, Tara, Ernst, Rose, Oli, Linsey, BB Green, Diana, Haroun, Paul, Vinni, Jules, Saul, Barret, JP, Brennan, Annie, Wild Spirit, Buccaneers, Bomvu, The Collective - You know who you are.</li>
 </ul>
