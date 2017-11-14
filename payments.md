@@ -16,7 +16,7 @@ tagline: "every bit counts!"
 </div>
 <br>
 <a>PayPal and Payfast both accept credit and
-<br>debit card payments, Bitcoin is low cost and the fastest way to pay:</a>
+<br>debit cards, Bitcoin is well, Bitcoin.</a>
 <br>
 <br>
 <strong>PayPal:</strong>

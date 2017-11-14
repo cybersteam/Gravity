@@ -11,7 +11,7 @@ tagline: "who's who in zoo?"
 <br>
 across space a planet goes, winding changer, expression glow.
 <br>
-nomad nature, cultured change, bio advance, nature's row.
+nomad nature, cultured change, bio advance, nature's range.
 <br>
 <br>
 </div>
