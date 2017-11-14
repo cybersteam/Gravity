@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Native Leap
+title: native•leap
 email: nativeleap@gmail.com
-description: Awakening Firelight on Air Waves.
+description: born to space
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nativeleap.world" # the base hostname & protocol for your site
 twitter_username: nativeleap
@@ -17,3 +17,6 @@ paginate: 5
 plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+assets:
+   sources:
+     -_assets/fonts

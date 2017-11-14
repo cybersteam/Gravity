@@ -1,5 +1,7 @@
 ---
 layout: default
+title: airwaves
+exclude_from_nav: true
 ---
 
 <div class="home" style="text-align:center;">
@@ -11,7 +13,8 @@ layout: default
 <a>_---0///\\\0---_</a><br>
 <a>///000//\\000\\\</a><br>
 <a>////x///\\\x\\\\</a><br>
-<a>_____\____/_____</a>
+<a>_____\____/_____</a><br>
+<a>•</a>
 </div>
 
 
@@ -23,7 +26,8 @@ layout: default
 <a href="https://twitter.com/NativeLeap">Twitter</a>
 <br>
 <a href="https://www.youtube.com/channel/UCxKdi9a_IBnzE9CNz3vBdiw/featured">Youtube</a>
-</p>
+</p><br>
+<a>•</a>
 
 <div class="stores">
   <a style="font-size:16px;"> <strong>and available on</strong></a>
@@ -65,7 +69,7 @@ layout: default
 </div>
 
 
-</p>
+
 
 
 </div>

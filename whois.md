@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who Are We
+title: airborne
 permalink: /who_are_we/
 category: "about"
 tagline: "who's who in zoo?"

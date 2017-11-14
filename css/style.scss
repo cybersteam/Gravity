@@ -1,6 +1,13 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+@mixin embed-font($neuropol){
+    @neuropol{
+    font-family: $neuropol;
+    src: url(font_path('fonts/neuropol/neuropol.ttf"') format('truetype'))
+}
+};
+
 page-link {
   color:#fff;
 }
@@ -98,7 +105,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: /*$text-color*/#ccc;
-    background-image: url("../assets/img/header.png");
+    /*background-image: url("../assets/img/header.png");*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100%;
@@ -413,7 +420,7 @@ pre {
 .site-title {
   font-size: 64px;
   font-weight: 100;
-  font-family: 'PT Sans';
+  font-family: 'neuropol';
   text-transform: capitalize;
   font-weight: 500;
   margin-top: 30px;
