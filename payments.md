@@ -6,7 +6,8 @@ category: "payments"
 tagline: "every bit counts!"
 ---
 <br>
-<a>We're raising funds to do another tour in 2018, support the cause : )</a>
+<a>We're raising funds to do another album and tour in 2018 as well as buying equipment etc. Support the cause!!</a>
+<br>
 <br>
 <a>All donation's go directly to Ivan who put's them to work making better music.</a>
 <br>
