@@ -26,7 +26,7 @@ exclude_from_nav: true
 <a href="https://twitter.com/NativeLeap">Twitter</a>
 <br>
 <a href="https://www.youtube.com/channel/UCxKdi9a_IBnzE9CNz3vBdiw/featured">Youtube</a>
-</p><br>
+</p>
 <a>•</a>
 
 <div class="stores">
@@ -65,14 +65,17 @@ exclude_from_nav: true
 </tbody>
 </table>
 </div>
-
-
-
-
-
 </div>
+
+
+
+
+
+<br>
 <div class="drawing" style="width:100%; text-align:center;">
-<a>|____|***__***|____|</a>
+<a>///^^^***__***^^^\\\</a>
+<br>
+<a>///||||***__***||||\\\</a>
 <br>
 </div>
 <br>
